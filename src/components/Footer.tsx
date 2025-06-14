@@ -8,7 +8,7 @@ export function Footer() {
             <div className="flex items-center space-x-2">
               <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded"></div>
               <h2 className="text-xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                SkyConnect
+                VibeConnect
               </h2>
             </div>
             <p className="text-gray-600 text-sm">
@@ -107,7 +107,7 @@ export function Footer() {
 
         <div className="mt-12 pt-8 border-t border-gray-200">
           <p className="text-center text-gray-500 text-sm">
-            © {new Date().getFullYear()} SkyConnect. All rights reserved.
+            © {new Date().getFullYear()} VibeConnect. All rights reserved.
           </p>
         </div>
       </div>
